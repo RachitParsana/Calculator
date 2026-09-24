@@ -1,76 +1,44 @@
 # Calculator
 
-This is a fully functional and responsive calculator web app built using **HTML**, **CSS**, and **JavaScript**. It features essential calculator operations and includes a toggle for **Dark Mode**, making it both practical and stylish.
+A clean, responsive calculator web application built using HTML, CSS, and Vanilla JavaScript. The project provides common arithmetic operations, input controls, a light/dark mode switch, and a responsive interface for desktop and mobile screen sizes.
 
----
+## Features
 
-## 🚀 Features
+- Basic arithmetic operations:
+  - Addition (`+`)
+  - Subtraction (`-`)
+  - Multiplication (`*`)
+  - Division (`/`)
+  - Modulo (`%`)
+- Decimal input
+- Real-time expression input
+- Clear calculator display
+- Single-character delete/backspace functionality
+- Plus/Minus (`+/-`) toggle
+- Equals (`=`) calculation
+- Light Mode and Dark Mode
+- Responsive layout for desktop and mobile devices
 
--  Basic arithmetic operations: `+`, `-`, `*`, `/`, `%`
--  Real-time input and evaluation
--  Clear (`Clear`) and single-character delete (`✕`)
--  Plus/Minus toggle (`+/-`)
--  Toggle between **Light** and **Dark Mode**
--  Responsive layout for desktop and mobile
+## Technologies Used
 
----
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
-## 📁 Project Structure
+## Prerequisites
 
-```
-calculator-project/
-├── index.html          # Main HTML structure
-├── css.css             # Stylesheet (light & dark mode themes)
-├── index.js            # JavaScript logic for interaction
-├── favicon.png         # Favicon for the app
-└── README.md           # readme file
-```
+The project is a client-side web application and does not require a backend server, database, package manager, or external JavaScript framework.
 
----
+Required:
 
-## 💡 How to Use
+- A modern web browser
+- Git, if the repository is cloned using Git
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Nayabkhan123/Calculator.git
-   cd Calculator
-   ```
+## Installation
 
-2. **Open the project**:
-   Just open `index.html` in your preferred browser.
+### 1. Clone the Repository
 
----
+Clone the repository using Git:
 
-## 🌐 Demo
- 
-> [https://calculator-nayabkhan123.vercel.app/](https://calculator-nayabkhan123.vercel.app/)
-
----
-
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-
----
-
-## 🧩 Future Improvements
-
-- Show calculation history
-- Add scientific functions
-- and many more...
-
----
-
-## 🤝 Contributing
-
-Feel free to fork the project and submit pull requests. Contributions are welcome!
-
----
-
-## ✨ Author
-
-**[Nayab Khan]**  
-GitHub: [@Nayabkhan123](https://github.com/Nayabkhan123/)
+```bash
+git clone https://github.com/RachitParsana/Calculator.git
